@@ -133,7 +133,7 @@ export default function Home() {
       <nav className={homeStyles.homeNav}>
         <ul>
           <li><a href="/">Home</a></li>
-          <li><a a href="/">About</a></li>
+          <li><a a href="/about">About</a></li>
           <li><a a href="/">Contact</a></li>
         </ul>
       </nav>
@@ -172,9 +172,9 @@ export default function Home() {
         <div>
           <img src='https://upload.wikimedia.org/wikipedia/en/2/20/Arcticmonkeys-humbug.jpg'
           height='200px' width='200px'
-          alt='Suck it and See'/>
-          <p>Arctic Monkeys - Suck it and See</p>
-          <p>$10.00</p>
+          alt='Humbug'/>
+          <p>Arctic Monkeys - Humbug</p>
+          <p>$12.00</p>
           <button>View</button>
         </div>
       </div>
