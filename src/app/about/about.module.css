@@ -1,0 +1,19 @@
+.interestList {
+    margin-left: 20px;
+}
+
+/* .interestList li::before {
+    background-image: url("/flower.png");
+    background-repeat: none;
+    background-size: 50px;
+} */
+.interestList li {
+    background-image: url("/flower.png");
+    background-repeat: none;
+    background-position: center;
+    background-size: cover;
+    height: 50px;
+    width: 50px;
+    margin-bottom: 10px;
+    padding-left: 50px;
+}
